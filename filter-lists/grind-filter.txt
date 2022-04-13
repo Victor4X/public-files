@@ -2,3 +2,4 @@
 @@music.youtube.com
 ||twitch.tv
 ||reddit.com
+||netflix.com
