@@ -1,3 +1,4 @@
 ||discord.com
 ||discord.gg
 ||discord.io
+news.ycombinator.com
